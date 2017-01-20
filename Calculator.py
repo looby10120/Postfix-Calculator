@@ -1,3 +1,9 @@
+'''
+
+Calculator Class
+@ Developer Jedsadakorn Jirapermpoonsap 5801012630041
+
+'''
 class calculator:
     def __init__(self,equation):
         self.equation = equation        # keep equation text
